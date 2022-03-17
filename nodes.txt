@@ -1,0 +1,5 @@
+#Homepage
+
+Services grid can be found in: index-10.html
+Same will be used for property item: index-10.html
+
