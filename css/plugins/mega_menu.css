@@ -68,7 +68,7 @@
     display: block;
     float: left;
     width: 100%;
-    background-color: white;
+    background-color: transparent;
 }
 
 .mega-menu .menu-logo {
@@ -237,7 +237,7 @@
     display: inline-block;
     float: none;
     width: 100%;
-    color: #565656;
+    color: #fff;
     font-size: 0.933em;
     line-height: 64px;
     position: relative;
