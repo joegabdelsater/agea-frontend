@@ -11007,3 +11007,32 @@ canvas {
 .green-bg {
   background-color: #5fbe7a;
 }
+
+.top-info { padding: 30px; }
+
+.icon-info-box {
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    max-width: 200px;
+}
+
+.icon-info-box img {
+    height:22px;
+    margin-right: 10px;
+}
+
+.icon-info-box h6 {
+    margin-bottom: 0px;
+}
+
+.info-icon {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.property-location {
+    height: 400px;
+    width: 100%;
+}
