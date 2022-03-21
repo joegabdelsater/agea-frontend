@@ -518,7 +518,9 @@
     display: block;
     height: 2px;
     width: 26px;
-    background: #ffffff;
+    /* background: #ffffff; */
+    background: #000;
+
     position: absolute;
     top: 13px;
     border-radius: 3px;
